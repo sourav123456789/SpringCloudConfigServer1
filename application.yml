@@ -1,6 +1,6 @@
 my:
  greetings: Hello World from config server
-  list:
+ list:
    values: one,two,three,four
 
 db:
